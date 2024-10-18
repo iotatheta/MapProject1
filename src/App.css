@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: black;
+}
+
+h1 {
+  font-style: italic;
+  color: crimson;
+  text-align: center;
+}
+h3 {
+  font-style: italic;
+  color: blanchedalmond;
+  text-align: center;
+}
+ul {
+  color: aliceblue;
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  color: aliceblue;
+  border: 1px solid #ddd;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+p {
+  color: aliceblue;
+  margin: 0;
+}
